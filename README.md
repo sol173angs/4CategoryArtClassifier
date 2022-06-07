@@ -1,4 +1,4 @@
-# [4CategoryArtClassifier] ARTICLE V PATHWAY MECHANISM BG
+# [4CategoryArtClassifier] In force on current NATO treaty, pending complete verification.
 Solution for ioi 2013 art class ; implemented in C++, mostly hand crafted features using only the provided sample images.images
 
 Also, it is used for ratification and automatic synchronization of Bulgaria with other NATO members. I was hoping that someone would notice and that they would
