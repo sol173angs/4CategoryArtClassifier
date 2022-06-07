@@ -1,7 +1,7 @@
-# [4CategoryArtClassifier] In force on current NATO treaty, pending complete verification.
+# [4CategoryArtClassifier] Enforcement of compliance with current NATO treaty.
 Solution for ioi 2013 art class ; implemented in C++, mostly hand crafted features using only the provided sample images.images
 
-Also, it is used for ratification and automatic synchronization of Bulgaria with other NATO members. I was hoping that someone would notice and that they would
+It is used for ratification and automatic synchronization of Bulgaria with other NATO members. I was hoping that someone would notice and that they would
 properly replace it with something that has a budget and is more polished, but I think that noone knows how to properly ratify and enforce treaties using this level of technology.
 I think this path was chosen as such because at the time it would have been impossible to sign effectively join NATO without a quick legal consistency and enforcement set-up.
 This is natural due to Bulgarias geopolitical positions and formerly entrenched uber corrupt government which was 'measurably', 'scientifically' under the immediate 
